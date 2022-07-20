@@ -81,3 +81,5 @@ The chain ID above can be fetched by:
 
 cd app
 node index.js
+
+Additional Reference - https://github.com/galen211/udacity-blockchain-developer/tree/master/
