@@ -2,6 +2,14 @@
 ## Udacity Project-2
 A DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+# Submission Details
+
+#### Your ERC-721 Token Name: DasikaToken
+#### Your ERC-721 Token Symbol: DSK
+#### Version of the Truffle and OpenZeppelin used: Truffle v5.1.44 (core: 5.1.44) | OpenZeppelin version 2.1.2
+#### The deployed smart contract address on rinkeby test network: 0xB99C18f7C917e279Fc1AE7c0D935088bF27cB98a
+#### [Link to Rinkeby Etherscan](https://rinkeby.etherscan.io/address/0xb99c18f7c917e279fc1ae7c0d935088bf27cb98a)
+
 #### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
